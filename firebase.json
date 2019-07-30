@@ -1,9 +1,6 @@
 {
   "hosting":{
-    "site": "croxleau",
+    "site": "croxleau.firebaseapp.com",
     "public": "public"
-  },
-  "database": {
-    "rules": "database.rules.json"
   }
 }
